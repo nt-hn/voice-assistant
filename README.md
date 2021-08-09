@@ -14,12 +14,9 @@ pip install gTTS SpeechRecognition pyttsx3 requests-html beautifulsoup4 PyAudio
 
 ## Usage
 
-```python
-
-# ask what time is it
+ask what time is it
 returns the current time
 
-```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

@@ -5,6 +5,7 @@ voice-assistant is a project for customizing voice assistant with python
 ## Installation
 
 Use the package manager pip to install the following.
+The modules can be found at the beginning of the custom assistant code
 
 ```bash
 

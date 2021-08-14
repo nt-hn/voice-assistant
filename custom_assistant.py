@@ -65,6 +65,7 @@ def assistant(command):
     "if statements for executing commands"
     if 'time' in command:
         Speak(time.asctime())
+        print(time.asctime())
 
     elif 'open reddit' in command:
         reg_ex = re.search('open reddit (.*)', command)
